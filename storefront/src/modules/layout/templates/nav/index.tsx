@@ -34,7 +34,7 @@ export default async function Nav() {
             >
               {/* Using Next.js Image component for your logo */}
               <Image
-                src="/src/assets/akkss-logo-cropped.png"
+                src="https://res.cloudinary.com/dmpvpxxh2/image/upload/v1751565461/akkss-logo-cropped_ldvqrm.png"
                 alt="AKKSS Tech Logo"
                 width={36} // Corresponds to w-9
                 height={36} // Corresponds to h-9
